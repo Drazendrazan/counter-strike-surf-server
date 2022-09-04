@@ -1,0 +1,60 @@
+"UserLocalConfigStore"
+{
+	"Licenses"
+	{
+		"17906"		"0100000013790957a5880b0e4c0dc933d5ef70b2c3610a54066c03d8e75a7f64081ca803b06cad01591301b7f9c67e1bf3890db72fa6abac0bb7b85f880659623997652d56e49cc1a25a18c452ff14bddd27d1a4c77c573a20e400a8f85b3f7e6f6dd3c21d3f81cd6adced9cbbe129dc45e90ec059413d5bc8edfd57b4f0b7d425f57ae6bea478f8b0edc53d48323554d5ae567563c4fd3d275e4a84b1bb521f6c3222f4f968b544a9bd8126fbfe82764db96556d99a465cdb5b4cd13c0a98dd3b17986891dd0a0ff7e6401974a1d6d78fc257c2682157ad33e5984b8133210e4e993584d60a416e9f8e8eda3691add765ed99f0fcdd0eb79bbf63d4788d747bb35add34ce4ab19d75dd4aa14af200f48220bf3a3aeb5652fb170043c7f2d6a93b7667edac0d4e3840e077896fc0f109cc97df3f9ff6dd091b65617b39567a5ae7b74ae927baacdeff080874f159b2"
+	}
+	"AppInfoChangeNumber"		"15398384"
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"90"
+					{
+						"LastPlayed"		"1657646909"
+					}
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"11"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1658251719"
+				}
+			}
+		}
+		"71"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1658251722"
+				}
+			}
+		}
+		"1"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1658251724"
+				}
+			}
+		}
+	}
+}
